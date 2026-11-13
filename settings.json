@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "expire.mcsh.gg",
+    "port": 25565,
+    "version": "1.22.1"
   },
   "position": {
     "enabled": true,
